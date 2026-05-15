@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fmiguez10.github.io/snippets-8ibhho/sitemap.xml
